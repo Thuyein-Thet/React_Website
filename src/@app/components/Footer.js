@@ -14,7 +14,7 @@ function Footer() {
             <FacebookIcon />
             <LinkedInIcon />
         </div>
-        <p>&copy; 2022 TYT's Pizza.com</p>
+        <p>&copy; 2022 Italia's Pizza.com</p>
     </div>
   )
 }
