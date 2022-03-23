@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Logo from '../assests/pizzaLogo.png';
 import { Link } from "react-router-dom";
 import ReorderIcon from '@mui/icons-material/Reorder';
+import '../styles/Navbar.css';
 
 function Navbar() {
 
